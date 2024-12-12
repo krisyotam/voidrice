@@ -1,4 +1,4 @@
-# The Voidrice (Luke Smith <https://lukesmith.xyz>'s dotfiles)
+# The Rice (Kris Yotam <https://lukesmith.xyz>'s dotfiles)
 
 These are the dotfiles deployed by [KARBS](https://karbs.vercel.app) and as seen on
 [my YouTube channel](https://youtube.com/c/krisyotam).
